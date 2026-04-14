@@ -22,13 +22,13 @@ const ServicesSection = () => {
   return (
     <section className="section-padding bg-secondary">
       <div className="max-w-6xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16">
           {services.map((service) => (
             <div key={service.title} className="text-center md:text-left">
-              <div className="inline-flex items-center justify-center w-12 h-12 rounded-lg bg-accent/10 text-accent mb-5">
-                <service.icon className="w-6 h-6" strokeWidth={1.5} />
+              <div className="inline-flex items-center justify-center w-11 h-11 rounded-lg border border-accent/20 text-accent mb-6">
+                <service.icon className="w-5 h-5" strokeWidth={1.25} />
               </div>
-              <h3 className="text-xl font-semibold text-foreground mb-3">
+              <h3 className="text-2xl font-bold text-foreground mb-3">
                 {service.title}
               </h3>
               <p className="text-muted-foreground leading-relaxed">
