@@ -2,10 +2,13 @@ const SampleReelSection = () => {
   return (
     <section id="sample-reel" className="section-padding bg-background">
       <div className="max-w-4xl mx-auto text-center">
-        <h2 className="text-3xl sm:text-4xl md:text-5xl font-semibold text-foreground mb-12">
+        <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4 tracking-tight">
           From Brief to Broadcast in 72 Hours
         </h2>
-        <div className="aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl mb-8 bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
+        <p className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-16 leading-relaxed">
+          High-converting UGC-style ads for DTC brands and local businesses
+        </p>
+        <div className="aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
           <iframe
             src="https://www.youtube.com/embed/eH3zRX8irGs"
             title="Illumivare Sample Reel"
@@ -14,9 +17,6 @@ const SampleReelSection = () => {
             className="w-full h-full"
           />
         </div>
-        <p className="text-muted-foreground text-lg max-w-2xl mx-auto leading-relaxed">
-          High-converting UGC-style ads for supplements, skincare, and local service businesses
-        </p>
       </div>
     </section>
   );
