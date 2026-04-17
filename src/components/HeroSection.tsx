@@ -27,7 +27,7 @@ const HeroSection = () => {
         </p>
         <button
           onClick={scrollToReel}
-          className="inline-flex items-center justify-center rounded-full bg-accent text-accent-foreground px-8 py-4 text-base font-medium transition-all duration-200 hover:scale-105 hover:shadow-lg hover:shadow-accent/25"
+          className="inline-flex items-center justify-center rounded-lg bg-primary text-primary-foreground px-8 py-4 text-base font-semibold transition-all duration-300 hover:bg-accent hover:scale-105 hover:shadow-lg hover:shadow-accent/25"
         >
           See Sample Work
         </button>
