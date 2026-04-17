@@ -10,7 +10,7 @@ const SampleReelSection = () => {
         </p>
         <div className="w-full max-w-[800px] mx-auto my-10 aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
           <iframe
-            src="https://www.youtube.com/embed/BdUvLYtu53w"
+            src="https://www.youtube.com/embed/eH3zRX8irGs"
             title="Illumivare Sample Reel"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
