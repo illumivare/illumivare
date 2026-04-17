@@ -8,11 +8,11 @@ const SampleReelSection = () => {
         <p className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-16 leading-relaxed">
           High-converting UGC-style ads for DTC brands and local businesses
         </p>
-        <div className="aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
+        <div className="w-full max-w-[800px] mx-auto my-10 aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
           <iframe
-            src="https://www.youtube.com/embed/eH3zRX8irGs"
+            src="https://www.youtube.com/embed/BdUvLYtu53w"
             title="Illumivare Sample Reel"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
             className="w-full h-full"
           />
