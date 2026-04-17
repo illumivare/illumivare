@@ -6,10 +6,10 @@ const FinalCtaSection = () => {
           Ready for More Customers with Less Work?
         </h2>
         <a
-          href="https://calendar.app.google/6kjsb7Uw7uhEMjfeA"
+          href="https://calendar.google.com/appointments/schedules/AcZssZ3NwgEQmpcSZqR00c6hyp3_hBzyJXhGRW0Kni4CoBEOwdcM_D7nwQ8N5SQ65iKQj8Z9nBlAb_5F"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center rounded-full bg-accent text-accent-foreground px-10 py-5 text-lg font-semibold transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-accent/30 hover:brightness-110"
+          className="inline-flex items-center justify-center rounded-lg bg-primary text-primary-foreground px-8 py-4 text-lg font-semibold transition-all duration-300 hover:bg-accent hover:scale-105 hover:shadow-xl hover:shadow-accent/30"
         >
           Book a Discovery Call
         </a>

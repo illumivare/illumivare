@@ -25,8 +25,8 @@ const ServicesSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16">
           {services.map((service) => (
             <div key={service.title} className="text-center md:text-left">
-              <div className="inline-flex items-center justify-center w-11 h-11 rounded-lg border border-accent/20 text-accent mb-6">
-                <service.icon className="w-5 h-5" strokeWidth={1.25} />
+              <div className="inline-flex items-center justify-center w-11 h-11 rounded-lg border border-accent/30 text-accent mb-6">
+                <service.icon className="w-5 h-5" strokeWidth={1.5} />
               </div>
               <h3 className="text-2xl font-bold text-foreground mb-3">
                 {service.title}
