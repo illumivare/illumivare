@@ -5,7 +5,7 @@ const SampleReelSection = () => {
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4 tracking-tight">
           From Brief to Broadcast in 72 Hours
         </h2>
-        <p className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-16 leading-relaxed">
+        <p className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-8 leading-relaxed">
           High-converting UGC-style ads for DTC brands and local businesses
         </p>
         <div className="w-full max-w-[800px] mx-auto my-10 aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl bg-gradient-to-br from-primary/10 via-accent/10 to-primary/5">
