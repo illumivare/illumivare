@@ -6,7 +6,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden py-32 md:py-40">
+    <section className="relative min-h-[85vh] flex items-center justify-center overflow-hidden py-16 md:py-20">
       <img
         src={heroBg}
         alt=""
