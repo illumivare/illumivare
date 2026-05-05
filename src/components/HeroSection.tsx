@@ -14,11 +14,12 @@ const HeroSection = () => {
         width={1920}
         height={1080}
       />
-      <div className="absolute inset-0 bg-black/55" />
+      <div className="absolute inset-0 bg-black/35" />
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6 opacity-0 animate-fade-up">
         <h1 className="text-[36px] md:text-[56px] font-extrabold tracking-tight text-primary-foreground leading-[1.1] mb-6">
           AI-Powered Video Ads That Convert
         </h1>
+        <div className="w-[60px] h-[3px] bg-accent mx-auto mb-6" />
         <p className="text-base md:text-xl text-primary-foreground/80 max-w-2xl mx-auto mb-10 leading-relaxed">
           High-performing content for DTC brands and local businesses—without the production overhead
         </p>
