@@ -1,14 +1,14 @@
 const services = [
   {
-    title: "Done-for-You Production",
+    title: "Your Ads. Our Execution. Zero Hassle.",
     description: "UGC-style video ads delivered in 3 days—no creators, no crews, no waiting",
   },
   {
-    title: "AI Training Workshops",
+    title: "Train Your Team to Move Like an Agency",
     description: "Teach your team to produce high-converting content in-house with AI tools",
   },
   {
-    title: "Custom Implementation",
+    title: "White-Glove Setup for Scale",
     description: "White-glove setup for agencies and brands scaling video ad production",
   },
 ];
