@@ -3,7 +3,7 @@ const SampleReelSection = () => {
     <section id="sample-reel" className="section-padding bg-background">
       <div className="max-w-4xl mx-auto text-center">
         <p className="text-xs md:text-sm uppercase text-[#6B7280] tracking-[2px] mb-4">
-          AI-powered. Human-strategic. Zero production drama.
+          No crews. No chaos. Just high-converting ads.
         </p>
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4 tracking-tight">
           From Brief to Broadcast in 72 Hours

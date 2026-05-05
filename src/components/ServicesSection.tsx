@@ -1,7 +1,7 @@
 const services = [
   {
     title: "Your Ads. Our Execution. Zero Hassle.",
-    description: "UGC-style video ads delivered in 3 days—no creators, no crews, no waiting",
+    description: "High-converting video ads delivered in 3 days—no creators, no crews, no waiting",
   },
   {
     title: "Train Your Team to Move Like an Agency",
