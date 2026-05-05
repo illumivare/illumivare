@@ -1,6 +1,6 @@
 const FinalCtaSection = () => {
   return (
-    <section className="py-10 md:py-14 lg:py-16 px-6 md:px-12 lg:px-20 bg-[hsl(214,100%,96%)]">
+    <section className="py-10 md:py-14 lg:py-16 px-6 md:px-12 lg:px-20 bg-[#FFF5F2]">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-[28px] md:text-[40px] font-extrabold text-foreground mb-10 leading-tight tracking-tight">
           Ready for More Customers with Less Work?
